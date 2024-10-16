@@ -79,8 +79,8 @@
 
 
 <a href="https://github.com/mehedihasanit12/facebook-post-comment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasanit12&repo=developer-portfolio&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasanit12&repo=facebook-post-comment&theme=algolia" />
 </a>
 <a href="https://github.com/mehedihasanit12/jubo-web-development-and-application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasanit12&repo=Express-Postgres-blog&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasanit12&repo=jubo-web-development-and-application&theme=algolia" />
 </a>
