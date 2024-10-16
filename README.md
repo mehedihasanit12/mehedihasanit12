@@ -17,10 +17,10 @@
 
 ### Connect With Me:
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abusaid.riyaz)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-said-bd/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abu_said_bd)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/said7388)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abusaid7388@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mehedi.hasansis.9)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-515b35221/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mehedihasanit1)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasanit12@gmail.com)
 
 ---
 
@@ -54,7 +54,7 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasanit12&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasanit12&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Mehedi Hasan's GitHub status" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasanit12&theme=algolia" alt="mehedihasanit12" />
@@ -78,9 +78,9 @@
 ### Top Repositories
 
 
-<a href="https://github.com/said7388/developer-portfolio">
+<a href="[https://github.com/mehedihasanit12/facebook-post-comment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasanit12&repo=developer-portfolio&theme=algolia" />
 </a>
-<a href="https://github.com/said7388/Express-Postgres-blog">
+<a href="https://github.com/mehedihasanit12/jubo-web-development-and-application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasanit12&repo=Express-Postgres-blog&theme=algolia" />
 </a>
