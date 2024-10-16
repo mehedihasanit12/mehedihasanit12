@@ -70,7 +70,7 @@
 
 ### StarDev Ranking
 
-<a href="https://stardev.io/developers/said7388"><img alt="Check out said7388's profile on stardev.io" src="https://stardev.io/developers/said7388/badge/languages/locality.svg" /></a>
+<a href="https://stardev.io/developers/mehedihasanit12"><img alt="Check out mehedihasanit12's profile on stardev.io" src="https://stardev.io/developers/mehedihasanit12/badge/languages/global.svg" /></a>
 
 ---
 
