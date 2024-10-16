@@ -78,7 +78,7 @@
 ### Top Repositories
 
 
-<a href="[https://github.com/mehedihasanit12/facebook-post-comment">
+<a href="https://github.com/mehedihasanit12/facebook-post-comment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasanit12&repo=developer-portfolio&theme=algolia" />
 </a>
 <a href="https://github.com/mehedihasanit12/jubo-web-development-and-application">
