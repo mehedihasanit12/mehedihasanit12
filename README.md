@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ABU+SAID....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mehedi+Hasan+Shis....;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=mehedihasanit12&color=brightgreen)
 
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
@@ -54,10 +54,10 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasanit12&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=said7388&theme=algolia" alt="said7388" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasanit12&theme=algolia" alt="mehedihasanit12" />
 </p>
 
 ---
