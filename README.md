@@ -6,12 +6,13 @@
 
 ![](https://komarev.com/ghpvc/?username=mehedihasanit12&color=brightgreen)
 
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
-- 💻 I love exploring new tech stacks and building cool stuff.
-- 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn Cloud on AWS and Azure.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+- 🔭 Currently learning FullStack Development (Frontend + Backend).
+- 🌱 Exploring the world of web technologies step by step. 
+- 💻 Building projects to enhance my skills and understanding. 
+- 📰 Love reading documentation and learning from tutorials. 
+- 🥅 2024 Goal: Master the basics of JavaScript, HTML, CSS, and React.
+- ⚡ Fun fact: Learning by doing is the best way to grow as a developer! 😊
+
 
 ---
 
