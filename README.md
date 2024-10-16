@@ -64,7 +64,7 @@
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanit12&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
 
@@ -79,8 +79,8 @@
 
 
 <a href="https://github.com/said7388/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=developer-portfolio&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasanit12&repo=developer-portfolio&theme=algolia" />
 </a>
 <a href="https://github.com/said7388/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=Express-Postgres-blog&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasanit12&repo=Express-Postgres-blog&theme=algolia" />
 </a>
