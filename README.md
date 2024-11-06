@@ -68,7 +68,7 @@
 
 ### Top Repositories
 
-<a href="[https://github.com/mehedihasanit12/bootstrap-design-practice-01">
+<a href="https://github.com/mehedihasanit12/bootstrap-design-practice-01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasanit12&repo=bootstrap-design-practice-01&theme=algolia" />
 </a>
 <a href="https://github.com/mehedihasanit12/jubo-web-development-and-application">
