@@ -10,7 +10,7 @@
 - 🌱 Exploring the world of web technologies step by step. 
 - 💻 Building projects to enhance my skills and understanding. 
 - 📰 Love reading documentation and learning from tutorials. 
-- 🥅 2024 Goal: Master the basics of JavaScript, HTML, CSS, and React.
+- 🥅 2025 Goal: Master the basics of JavaScript, Php, Laravel and React.
 - ⚡ Fun fact: Learning by doing is the best way to grow as a developer! 😊
 
 
